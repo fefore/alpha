@@ -1,5 +1,5 @@
 // =================================BACKGROUND=================================
-export const background = 'url("http://s3.amazonaws.com/icalialabs/assets/img/bg.png") no-repeat center center';
+export const background = 'url("https://s3.amazonaws.com/icalialabs/assets/img/bg.png") no-repeat center center';
 
 // =================================COLORS=================================
 
@@ -48,5 +48,5 @@ export const disabledColor = '#9c9c9c';
 // =================================DIMENSIONS=================================
 
 // --- Dialogue Styles ---//
-export const chatRound = '50px';
-export const chatRoundSmall = '40px';
+export const chatRound = '80px';
+export const chatRoundSmall = '60px';
